@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    font-size: 10ch;
+}
+.one{
+    width: 300px;
+    height: 300px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+#unique{
+    width: 250px;
+    height: 250px;
+    border-radius: 100px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
